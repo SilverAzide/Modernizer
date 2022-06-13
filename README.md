@@ -2,9 +2,7 @@
 # Modernizer
 **Gadgets theming utility inspired by raiguard's ModernGadgets suite.**
 
-Rainmeter community member raiguard has announced that he has decided to move on to the Linux world and leave us Windows users behind. His contributions to the Rainmeter community will be sorely missed. One of his most popular skin suites is his [ModernGadgets](https://github.com/raiguard/ModernGadgets/#readme) suite. While this suite is no longer being maintained, users who enjoyed the appearance of these skins now have an alternative: the Gadgets Modernizer Patch.
-
-The Gadgets Modernizer Patch will replace the styling of the [Gadgets](https://github.com/SilverAzide/Gadgets/#readme) suite with a theme that more closely matches that of raiguard's ModernGadgets suite. You may find the ModernGadgets theme is easier to read, especially at small font sizes. The graphics have an appearance that may blend in better with newer versions of Windows, particularly when partially transparent backgrounds are used.
+The Gadgets Modernizer Patch will replace the styling of the [Gadgets](https://github.com/SilverAzide/Gadgets/#readme) suite with a theme that more closely matches that of raiguard's [ModernGadgets](https://github.com/raiguard/ModernGadgets/#readme) suite. You may find the ModernGadgets theme is easier to read, especially at small font sizes. The graphics have an appearance that may blend in better with newer versions of Windows, particularly when partially transparent backgrounds are used.
 
 Modernizing your Gadgets will change the primary font and background style for all skins. Graphics will be changed to have a flatter appearance and weather icons will be replaced with ones having a more modern style. **_Your custom colors and selected Gadget options will not be changed._** You can restore the original Gadgets appearance at any time.
 
