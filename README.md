@@ -36,7 +36,7 @@ ModernGadgets skins are on the left, modernized Gadget skins are on the right. C
 ![Weather Meter](Images/Weather-Meter.png)
 
 ## Requirements
-[Rainmeter 4.5.7 or later](https://www.rainmeter.net).<br>
+[Rainmeter 4.5.16 or later](https://www.rainmeter.net).<br>
 [Gadgets 7.4.0 or later](https://github.com/SilverAzide/Gadgets/#readme). [Download the latest version here](https://github.com/SilverAzide/Gadgets/releases/latest).
 
 ## Attribution
