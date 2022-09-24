@@ -49,4 +49,4 @@ ModernGadgets skins are on the left, modernized Gadget skins are on the right. C
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International ([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/))
 
 ---
-[![GitHub All Releases](https://img.shields.io/github/downloads/SilverAzide/Modernizer/total?logo=github&color=blue&style=for-the-badge)](https://github.com/SilverAzide/Modernizer/releases)
+[![GitHub All Releases](https://img.shields.io/github/downloads/SilverAzide/Modernizer/total?color=blue&logo=github&style=for-the-badge)](https://github.com/SilverAzide/Modernizer/releases)
